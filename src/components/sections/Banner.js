@@ -28,16 +28,16 @@ export default function Banner() {
                   <div className="shape-2" style={{ backgroundImage: 'url(assets/images/shape/shape-2.png)' }}></div>
                 </div>
                 <div className="row clearfix">
-                  <div className="col-lg-6 col-md-6 col-sm-12 single-column">
+                  <div className="col-lg-6 col-md-6 col-sm-6 col-6 single-column">
                     <figure className="image"><img src="assets/images/banner/banner-image-1.jpg" alt="" /></figure>
                   </div>
-                  <div className="col-lg-6 col-md-6 col-sm-12 single-column">
+                  <div className="col-lg-6 col-md-6 col-sm-6 col-6 single-column">
                     <figure className="image"><img src="assets/images/banner/banner-image-2.jpg" alt="" /></figure>
                   </div>
-                  <div className="col-lg-6 col-md-6 col-sm-12 single-column">
+                  <div className="col-lg-6 col-md-6 col-sm-6 col-6 single-column">
                     <figure className="image"><img src="assets/images/banner/banner-image-3.jpg" alt="" /></figure>
                   </div>
-                  <div className="col-lg-6 col-md-6 col-sm-12 single-column">
+                  <div className="col-lg-6 col-md-6 col-sm-6 col-6 single-column">
                     <figure className="image"><img src="assets/images/banner/banner-image-4.jpg" alt="" /></figure>
                   </div>
                 </div>

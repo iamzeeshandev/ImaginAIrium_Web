@@ -51,7 +51,7 @@ export default function PortfolioFilter() {
             </div>
             <div className="items-container row clearfix">
                 {/* Case Block */}
-                <div className="col-lg-4 col-md-6 col-sm-12 masonry-item all cat-1 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-lg-4 col-md-6 col-sm-6 col-6 masonry-item all cat-1 col-lg-4 col-md-6 col-sm-6 col-6">
                     <div className="project-block-one">
                         <div className="inner-box">
                             <figure className="image-box">
@@ -63,7 +63,7 @@ export default function PortfolioFilter() {
                     </div>
                 </div>
                 {/* Case Block */}
-                <div className="col-lg-4 col-md-6 col-sm-12  masonry-item all cat-2 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-lg-4 col-md-6 col-sm-6 col-6  masonry-item all cat-2 col-lg-4 col-md-6 col-sm-6 col-6">
                     <div className="project-block-one">
                         <div className="inner-box">
                             <figure className="image-box">
@@ -75,7 +75,7 @@ export default function PortfolioFilter() {
                     </div>
                 </div>
                 {/* Case Block */}
-                <div className="col-lg-4 col-md-6 col-sm-12 masonry-item all cat-1 cat-2 cat-4 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-lg-4 col-md-6 col-sm-6 col-6 masonry-item all cat-1 cat-2 cat-4 col-lg-4 col-md-6 col-sm-6 col-6">
                     <div className="project-block-one">
                         <div className="inner-box">
                             <figure className="image-box"><Link href="assets/images/project/project-3.jpg" className="lightbox-image" data-fancybox="gallery">
@@ -84,7 +84,7 @@ export default function PortfolioFilter() {
                     </div>
                 </div>
                 {/* Case Block */}
-                <div className="col-lg-4 col-md-6 col-sm-12 masonry-item all cat-1 cat-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-lg-4 col-md-6 col-sm-6 col-6 masonry-item all cat-1 cat-3 col-lg-4 col-md-6 col-sm-6 col-6">
                     <div className="project-block-one">
                         <div className="inner-box">
                             <figure className="image-box"><Link href="assets/images/project/project-4.jpg" className="lightbox-image" data-fancybox="gallery">
@@ -93,7 +93,7 @@ export default function PortfolioFilter() {
                     </div>
                 </div>
                 {/* Case Block */}
-                <div className="col-lg-4 col-md-6 col-sm-12 masonry-item all cat-2 cat-1 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-lg-4 col-md-6 col-sm-6 col-6 masonry-item all cat-2 cat-1 col-lg-4 col-md-6 col-sm-6 col-6">
                     <div className="project-block-one">
                         <div className="inner-box">
                             <figure className="image-box"><Link href="assets/images/project/project-5.jpg" className="lightbox-image" data-fancybox="gallery">
@@ -102,7 +102,7 @@ export default function PortfolioFilter() {
                     </div>
                 </div>
                 {/* Case Block */}
-                <div className="col-lg-4 col-md-6 col-sm-12 masonry-item all cat-2 cat-3 col-lg-4 col-md-6 col-sm-12">
+                <div className="col-lg-4 col-md-6 col-sm-6 col-6 masonry-item all cat-2 cat-3 col-lg-4 col-md-6 col-sm-6 col-6">
                     <div className="project-block-one">
                         <div className="inner-box">
                             <figure className="image-box"><Link href="assets/images/project/project-6.jpg" className="lightbox-image" data-fancybox="gallery">

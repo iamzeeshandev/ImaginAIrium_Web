@@ -7,6 +7,7 @@ import VideoSection from "@/components/sections/Video";
 import CodeSection from "@/components/sections/Code";
 import Gallery from "@/components/sections/Gallery";
 import Pricing from "@/components/sections/Pricing";
+import ContactForm from "@/components/sections/ContactForm";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
         <CodeSection />
         <Gallery />
         <Pricing />
+        <ContactForm />
       </Layout>
     </>
   )

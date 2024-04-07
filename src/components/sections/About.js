@@ -10,15 +10,15 @@ export default function About() {
         <div className="row align-items-center">
           <div className="col-lg-6 col-md-12 col-sm-12 image-column">
             <div className="image_block_one">
-              <div data-animation-box className="image-box pl_50 pt_50 pb_50 mr_40">
+              <div data-animation-box className="image-box pl_50 pt_50 pb_50 pr_40 mr_40">
                 <div className="image-shape" style={{ backgroundImage: 'url(assets/images/shape/shape-3.png)' }}></div>
                 <div className="row clearfix">
-                  <div className="col-lg-6 col-md-6 col-sm-12 single-column">
+                  <div className="col-lg-6 col-md-6 col-sm-6 col-6 single-column">
                     <figure data-animation-text className="image image-1 overlay-anim-black-bg" data-animation="overlay-animation">
                       <img src="assets/images/resource/about-us-3.jpg" alt="" />
                     </figure>
                   </div>
-                  <div className="col-lg-6 col-md-6 col-sm-12 single-column">
+                  <div className="col-lg-6 col-md-6 col-sm-6 col-6 single-column">
                     <figure data-animation-text className="image image-2 overlay-anim-black-bg" data-animation="overlay-animation">
                       <img src="assets/images/resource/about-us-4.jpg" alt="" />
                     </figure>
