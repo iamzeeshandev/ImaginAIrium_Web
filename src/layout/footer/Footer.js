@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="widget-section">
             <div className="row clearfix">
               {/* Footer Column 1 */}
-              <div className="col-lg-3 col-md-6 col-sm-12 footer-column">
+              <div className="col-lg-4 col-md-6 col-sm-12 footer-column">
                 <div className="footer-widget logo-widget">
                   <figure className="footer-logo">
                     <Link href="/"><img src="assets/images/white-logo.png" alt="" /></Link>
@@ -24,7 +24,7 @@ export default function Footer() {
               </div>
 
               {/* Footer Column 2 */}
-              <div className="col-lg-3 col-md-6 col-sm-12 footer-column">
+              <div className="col-lg-4 col-md-6 col-sm-12 footer-column">
                 <div className="footer-widget links-widget ml_60">
                   <div className="widget-title">
                     <h3>Resources</h3>
@@ -41,7 +41,7 @@ export default function Footer() {
               </div>
 
               {/* Footer Column 3 */}
-              <div className="col-lg-3 col-md-6 col-sm-12 footer-column">
+              {/* <div className="col-lg-3 col-md-6 col-sm-12 footer-column">
                 <div className="footer-widget links-widget">
                   <div className="widget-title">
                     <h3>Pages</h3>
@@ -54,10 +54,10 @@ export default function Footer() {
                     </ul>
                   </div>
                 </div>
-              </div>
+              </div> */}
 
               {/* Footer Column 4 */}
-              <div className="col-lg-3 col-md-6 col-sm-12 footer-column">
+              <div className="col-lg-4 col-md-6 col-sm-12 footer-column">
                 <div className="footer-widget subscribe-widget">
                   <div className="widget-title">
                     <h3>Subscribe Newsletter</h3>

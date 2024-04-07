@@ -21,7 +21,7 @@ export default function ContactForm() {
     };
 
     return (
-        <section className="contact-section pb_120">
+        <section id="contact" className="contact-section pb_120">
             <div className="auto-container">
                 <div data-animation-box className="sec-title mb_55 centred">
                     <span data-animation-text className="sub-title overlay-anim-white-bg" data-animation="overlay-animation">

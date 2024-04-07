@@ -8,7 +8,7 @@ export default function Menu() {
                 <li><Link href="/">Home</Link></li>
                 <li><Link href="#about-us">About</Link></li>
                 <li><Link href="#pricing">Pricing</Link></li>
-                <li><Link href="/contact">Contact</Link></li>
+                <li><Link href="#contact">Contact</Link></li>
             </ul>
         </>
     )
