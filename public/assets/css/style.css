@@ -1240,6 +1240,8 @@ img {
   cursor: pointer;
   background: var(--theme-color);
   display: none;
+  border-radius: 5px;
+  padding: 16px !important;
 }
 
 .mobile-menu .nav-logo img{

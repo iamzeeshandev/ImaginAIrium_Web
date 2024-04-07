@@ -14,7 +14,7 @@ export default function About() {
                 <div className="image-shape" style={{ backgroundImage: 'url(assets/images/shape/shape-3.png)' }}></div>
                 <div className="row clearfix">
                   <div className="col-lg-6 col-md-6 col-sm-6 col-6 single-column">
-                    <figure data-animation-text className="image image-1 overlay-anim-black-bg" data-animation="overlay-animation">
+                    <figure data-animation-text className="image image-1 overlay-anim-black-bg mb-0" data-animation="overlay-animation">
                       <img src="assets/images/resource/about-us-3.jpg" alt="" />
                     </figure>
                   </div>

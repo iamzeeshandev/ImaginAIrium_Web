@@ -23,7 +23,7 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu }) {
                             </div>
                             <div className="menu-area">
                                 {/* Mobile Navigation Toggler */}
-                                <div className="mobile-nav-toggler" onClick={handleMobileMenu}>
+                                <div className="mobile-nav-toggler p_15" onClick={handleMobileMenu}>
                                     <i className="icon-bar"></i>
                                     <i className="icon-bar"></i>
                                     <i className="icon-bar"></i>

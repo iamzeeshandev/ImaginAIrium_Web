@@ -124,7 +124,7 @@ export default function ContactForm() {
                                 <textarea name="message" placeholder="Type message"></textarea>
                             </div>
                             <div className="col-lg-12 col-md-12 col-sm-12 form-group message-btn centred">
-                                <button className="theme-btn btn-one" type="submit" name="submit-form">
+                                <button className="theme-btn btn-one pl_70 pr_70" type="submit" name="submit-form">
                                     Submit
                                 </button>
                             </div>

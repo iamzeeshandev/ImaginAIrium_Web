@@ -4,13 +4,13 @@ import React from 'react';
 export default function Banner() {
   return (
     <>
-      <section className="banner-section p_relative">
+      <section className="banner-section p_relative py_xs_20">
         <div className="auto-container">
           <div className="row align-items-center">
             <div className="col-lg-6 col-md-12 col-sm-12 content-column">
               <div data-animation-box className="content-box mr_30">
                 <span data-animation-text className="sub-title overlay-anim-white-bg" data-animation="overlay-animation">ImaginAIrium</span>
-                <h2>Turn your Text into the <span>AI Content</span> in Seconds</h2>
+                <h2 className="mb-4">Turn your Text into the <span>AI Content</span> in Seconds</h2>
                 <p>Convert words into an image, video, code etc. in mere seconds with out ImaginAIrium platform</p>
                 <div className="form-inner pb_50">
                   <form method="post" action="/">
