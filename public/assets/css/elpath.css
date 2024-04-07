@@ -2177,7 +2177,7 @@ Padding
     padding: 7px;
 }
 .p_8 {
-    padding: 8px;
+    padding: 8px !important;
 }
 .p_9 {
     padding: 9px;

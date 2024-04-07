@@ -465,7 +465,7 @@ img {
 }
 
 .theme-btn.btn-three{
-  padding: 14px 39px;
+  padding: 8px 39px;
   color: var(--theme-color);
   border: 1px solid var(--theme-color);
 }
