@@ -331,10 +331,10 @@ Font wieght
     font-weight: 600;
 }
 .fw_bold {
-    font-weight: 700;
+    font-weight: 700 !important;
 }
 .fw_exbold {
-    font-weight: 800;
+    font-weight: 800 !important;
 }
 /* 
 el_09 
@@ -2183,19 +2183,19 @@ Padding
     padding: 9px;
 }
 .p_10 {
-    padding: 10px;
+    padding: 10px !important;
 }
 .p_11 {
-    padding: 11px;
+    padding: 11px !important;
 }
 .p_12 {
-    padding: 12px;
+    padding: 12px !important;
 }
 .p_13 {
-    padding: 13px;
+    padding: 13px !important;
 }
 .p_14 {
-    padding: 14px;
+    padding: 14px !important;
 }
 .p_15 {
     padding: 15px;
@@ -2889,19 +2889,19 @@ Padding
     padding-right: 45px;
 }
 .pr_50 {
-    padding-right: 50px;
+    padding-right: 50px !important;
 }
 .pr_55 {
-    padding-right: 55px;
+    padding-right: 55px !important;
 }
 .pr_60 {
-    padding-right: 60px;
+    padding-right: 60px !important;
 }
 .pr_65 {
-    padding-right: 65px;
+    padding-right: 65px !important;
 }
 .pr_70 {
-    padding-right: 70px;
+    padding-right: 70px !important;
 }
 .pr_75 {
     padding-right: 75px;
@@ -3171,19 +3171,19 @@ Padding
     padding-left: 45px;
 }
 .pl_50 {
-    padding-left: 50px;
+    padding-left: 50px !important;
 }
 .pl_55 {
-    padding-left: 55px;
+    padding-left: 55px !important;
 }
 .pl_60 {
-    padding-left: 60px;
+    padding-left: 60px !important;
 }
 .pl_65 {
-    padding-left: 65px;
+    padding-left: 65px !important;
 }
 .pl_70 {
-    padding-left: 70px;
+    padding-left: 70px !important;
 }
 .pl_75 {
     padding-left: 75px;

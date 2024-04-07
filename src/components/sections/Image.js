@@ -3,7 +3,7 @@
 import React from 'react';
 export default function ImageSection() {
   return (
-    <section className="feature-section pt_150 pb_150">
+    <section className="feature-section pt_120 pb_120">
       <div className="auto-container">
         <div className="row align-items-center">
           <div className="col-lg-6 col-md-12 col-sm-12 content-column">
@@ -15,6 +15,7 @@ export default function ImageSection() {
               <div className="text-box">
                 <p>This tool empowers you to produce and tweak images with ease. It offers an array of customization options that allow you to create highly detailed and precise visuals.</p>
                 <ul className="list-style-one clearfix">
+                  <li>Unleash Your Creativity with Diverse Art Styles</li>
                   <li>Easily generate images with detailed text prompts</li>
                   <li>Generate high-quality images with up to 8K resolution</li>
                 </ul>

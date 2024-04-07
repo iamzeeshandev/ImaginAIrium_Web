@@ -39,7 +39,7 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu }) {
                             {/* Menu Right Content */}
                             <ul className="menu-right-content">
                                 <li className="btn-box">
-                                    <Link href="/" className="theme-btn btn-one"><span>Login</span></Link>
+                                    <Link href="/" className="theme-btn btn-one pl_50 pr_50 p_10"><span>Login</span></Link>
                                 </li>
                             </ul>
                         </div>
@@ -66,7 +66,7 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu }) {
                             </nav>
                             <ul className="menu-right-content">
                                 <li className="btn-box">
-                                    <Link href="/" className="theme-btn btn-one"><span>Login</span></Link>
+                                    <Link href="/" className="theme-btn btn-one pl_50 pr_50 p_10"><span>Login</span></Link>
                                 </li>
                             </ul>
 

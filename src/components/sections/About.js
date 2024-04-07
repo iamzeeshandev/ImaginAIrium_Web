@@ -5,7 +5,7 @@ import React from 'react';
 
 export default function About() {
   return (
-    <section id="about-us" className="about-section pb_150">
+    <section id="about-us" className="about-section pb_120">
       <div className="auto-container">
         <div className="row align-items-center">
           <div className="col-lg-6 col-md-12 col-sm-12 image-column">
@@ -41,7 +41,6 @@ export default function About() {
                     Learn something new and fall in love with the possibilities of <strong>ImaginAIrium</strong>,.
                   </p>
                   <ul className="list-style-one clearfix">
-                    <li>Easily generate images with detailed text prompts</li>
                     <li>Easily generate Video with detailed text prompts</li>
                     <li>Easily generate Code with detailed text prompts</li>
                     <li>Have a chat with a historical figure</li>

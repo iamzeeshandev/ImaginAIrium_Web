@@ -5,7 +5,7 @@ export default function Gallery() {
 
     return (
         <>
-            <section className="project-section pb_150 centred">
+            <section className="project-section pb_120 centred">
                 <div className="auto-container">
                     <div data-animation-box className="sec-title mb_55">
                         <span data-animation-text className="sub-title overlay-anim-white-bg" data-animation="overlay-animation">Image Gallery</span>

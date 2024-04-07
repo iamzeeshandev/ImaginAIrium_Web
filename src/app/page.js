@@ -6,6 +6,7 @@ import Layout from "@/layout/Layout";
 import VideoSection from "@/components/sections/Video";
 import CodeSection from "@/components/sections/Code";
 import Gallery from "@/components/sections/Gallery";
+import Pricing from "@/components/sections/Pricing";
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
         <VideoSection />
         <CodeSection />
         <Gallery />
+        <Pricing />
       </Layout>
     </>
   )

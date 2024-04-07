@@ -3,7 +3,7 @@
 import React from 'react';
 export default function CodeSection() {
     return (
-        <section className="feature-section pb_150">
+        <section className="feature-section pb_120">
             <div className="auto-container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12 col-sm-12 content-column">
@@ -15,9 +15,9 @@ export default function CodeSection() {
                             <div className="text-box">
                                 <p>A cutting edge IDE powered by AI. Prompt driven and built-in functionalities provide a dedicated environment for efficient <strong>coding</strong>.</p>
                                 <ul className="list-style-one clearfix">
-                                    <li>Easily generate images with detailed text prompts</li>
-                                    <li>Customize your images with different styles, moods, colors</li>
-                                    <li>Generate high-quality images with up to 8K resolution</li>
+                                    <li>Effortless Code Generation with Prompts</li>
+                                    <li>Enhanced Productivity with AI-powered Assistance</li>
+                                    <li>Adaptable to Various Programming Languages</li>
                                 </ul>
                             </div>
                         </div>

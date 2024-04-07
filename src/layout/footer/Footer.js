@@ -16,9 +16,9 @@ export default function Footer() {
                   </figure>
                   <p>Combined with a handy platform and top-notch support from our in-house production team</p>
                   <ul className="social-links clearfix">
-                    <li><Link href="/"><i className="fa-brands fa-facebook"></i></Link></li>
-                    <li><Link href="/l"><i className="fa-brands fa-twitter"></i></Link></li>
-                    <li><Link href="/"><i className="fa-brands fa-linkedin"></i></Link></li>
+                    <li><Link href="#"><i className="fa-brands fa-facebook"></i></Link></li>
+                    <li><Link href="#"><i className="fa-brands fa-twitter"></i></Link></li>
+                    <li><Link href="#"><i className="fa-brands fa-linkedin"></i></Link></li>
                   </ul>
                 </div>
               </div>
@@ -31,10 +31,10 @@ export default function Footer() {
                   </div>
                   <div className="widget-content">
                     <ul className="links-list clearfix">
-                      <li><Link href="about">Home</Link></li>
-                      <li><Link href="about">About</Link></li>
-                      <li><Link href="contact">Contact</Link></li>
-                      <li><Link href="blog">Pricing</Link></li>
+                      <li><Link href="/">Home</Link></li>
+                      <li><Link href="#about-us">About</Link></li>
+                      <li><Link href="/contact">Contact</Link></li>
+                      <li><Link href="#pricing">Pricing</Link></li>
                     </ul>
                   </div>
                 </div>
@@ -44,13 +44,13 @@ export default function Footer() {
               <div className="col-lg-3 col-md-6 col-sm-12 footer-column">
                 <div className="footer-widget links-widget">
                   <div className="widget-title">
-                    <h3>Primary Pages</h3>
+                    <h3>Pages</h3>
                   </div>
                   <div className="widget-content">
                     <ul className="links-list clearfix">
-                      <li><Link href="/">Privacy</Link></li>
-                      <li><Link href="/">Terms & Conditions</Link></li>
-                      <li><Link href="/">Refund Policy</Link></li>
+                      <li><Link href="#">Privacy</Link></li>
+                      <li><Link href="#">Terms & Conditions</Link></li>
+                      <li><Link href="#">Refund Policy</Link></li>
                     </ul>
                   </div>
                 </div>

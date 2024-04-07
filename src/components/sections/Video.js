@@ -3,7 +3,7 @@
 import React from 'react';
 export default function VideoSection() {
     return (
-        <section className="about-style-three pb_150">
+        <section className="about-style-three pb_120">
             <div className="auto-container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12 col-sm-12 image-column">
