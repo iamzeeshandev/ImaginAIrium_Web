@@ -1,44 +1,7 @@
  
-/* Css For Sensai */
+/* Css For Revolution AI */
 
 /************ TABLE OF CONTENTS ***************
-1. Fonts
-2. Reset
-3. Global
-4. Main Header/style-one/style-two
-5. Main Slider/style-one/style-two
-6. Intro Section
-7. Welcome Section
-9. Cta Section
-8. Research Fields
-10. Testimonial Section
-11. Researches Section
-12. Team Section
-14. Video
-15. Fact Counter
-16. News Section
-19. Clients Section
-20. Main Footer
-21. Footer Bottom
-22. Research Style Two
-23. Innovative Solution
-24. Discover Section
-25. Testimonial Section
-26. Chooseus Section
-27. News Style Two
-28. Page Title
-29. Research Page Section
-30. Research Details
-31. Professor Page Section
-32. Professor Details
-33. About Section
-34. Error Section
-35. Blog Page Section
-36. Blog Details
-37. Blog Sidebar
-38. Contact Section
-39. Google Map
-
 
 **********************************************/
 
@@ -59,18 +22,12 @@
 @import url(./module-css/banner.css);
 @import url(./module-css/contact.css);
 @import url(./module-css/cta.css);
-@import url(./module-css/error.css);
 @import url(./module-css/feature.css);
 @import url(./module-css/glance.css);
-@import url(./module-css/instagram.css);
-@import url(./module-css/integrations.css);
 @import url(./module-css/page-title.css);
 @import url(./module-css/pricing.css);
 @import url(./module-css/project.css);
-@import url(./module-css/service.css);
 @import url(./module-css/sidebar.css);
-@import url(./module-css/team.css);
-@import url(./module-css/testimonial.css);
 @import url(./module-css/working.css);
 
 /*** 

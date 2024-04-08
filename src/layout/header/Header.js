@@ -72,7 +72,8 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu }) {
 
                         </div>
                     </div>
-                </div>{/* End Sticky Menu */}
+                </div>
+                {/* End Sticky Menu */}
 
                 {/* Mobile Menu  */}
                 <MobileMenu handleMobileMenu={handleMobileMenu} />

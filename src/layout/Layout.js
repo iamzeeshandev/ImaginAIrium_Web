@@ -6,12 +6,10 @@ import dynamic from 'next/dynamic';
 // Dynamic import for the WOW library
 const WOW = dynamic(() => import('wowjs/dist/wow'));
 import Header from "./header/Header";
-import Breadcrumb from "./Breadcrumb";
 import BackToTop from "@/components/elements/BackToTop";
-import DataBg from "@/components/elements/DataBg";
 import Footer from "./footer/Footer";
 
-export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumbTitle, children, wrapperCls }) {
+export default function Layout({ headerStyle, footerStyle, children, wrapperCls }) {
     const [scroll, setScroll] = useState(0);
     const [isMobileMenu, setMobileMenu] = useState(false);
     const handleMobileMenu = () => {
@@ -37,10 +35,8 @@ export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumb
 
     return (
         <>
-            <DataBg />
             <div className={`boxed_wrapper ${wrapperCls ? wrapperCls : ""}`} id="#top">
                 {(headerStyle === 1 || !headerStyle) && <Header scroll={scroll} isMobileMenu={isMobileMenu} handleMobileMenu={handleMobileMenu} />}
-                {breadcrumbTitle && <Breadcrumb breadcrumbTitle={breadcrumbTitle} />}
 
                 {children}
 
