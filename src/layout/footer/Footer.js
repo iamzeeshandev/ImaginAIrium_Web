@@ -16,9 +16,9 @@ export default function Footer() {
                   </figure>
                   <p>Combined with a handy platform and top-notch support from our in-house production team</p>
                   <ul className="social-links clearfix">
-                    <li><Link href="#"><i className="fa-brands fa-facebook"></i></Link></li>
-                    <li><Link href="#"><i className="fa-brands fa-twitter"></i></Link></li>
-                    <li><Link href="#"><i className="fa-brands fa-linkedin"></i></Link></li>
+                    <li><Link href="https://www.facebook.com/RevAi.io"><i className="fa-brands fa-facebook"></i></Link></li>
+                    <li><Link href="https://twitter.com/RevAi_io"><i className="fa-brands fa-twitter"></i></Link></li>
+                    <li><Link href="https://www.linkedin.com/company/revolutionai-io"><i className="fa-brands fa-linkedin"></i></Link></li>
                   </ul>
                 </div>
               </div>

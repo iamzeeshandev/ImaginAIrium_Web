@@ -11,6 +11,9 @@ import HeroSection from "@/components/sections/HeroSection";
 import AboutUs from "@/components/sections/AboutUs";
 import ImaginAIrium from "@/components/sections/ImaginAIrium";
 import VelociTrade from "@/components/sections/VelociTrade";
+import ImageSection from "@/components/sections/Image";
+import VideoSection from "@/components/sections/Video";
+import CodeSection from "@/components/sections/Code";
 
 export default function Home() {
   return (
@@ -22,9 +25,9 @@ export default function Home() {
         <ImaginAIrium />
         <Glance />
         <VelociTrade />
-        {/* <ImageSection /> */}
-        {/* <VideoSection /> */}
-        {/* <CodeSection /> */}
+        {/* <ImageSection />
+        <VideoSection />
+        <CodeSection /> */}
         {/* <Gallery /> */}
         <Pricing />
         <ContactForm />

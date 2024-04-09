@@ -15,7 +15,7 @@ export default function Glance() {
           </div>
           <div className="sec-title light mb_80">
             <span className="sub-title">AT A GLANCE</span>
-            <h2>The ImaginAIrium at <br />a glance now</h2>
+            <h2>ImaginAIrium at <br />a glance now</h2>
             <p>ImaginAIrium, your gateway to building dreams with the power of Generative AI.</p>
           </div>
           <figure className="image-box"><img src="assets/images/resource/dashboard-ai.jpg" alt="" /></figure>
