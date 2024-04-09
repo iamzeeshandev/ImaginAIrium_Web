@@ -20,7 +20,8 @@ export default function MobileMenu({ handleMobileMenu }) {
               id="navbarSupportedContent">
               <ul className="navigation clearfix">
                 <li><Link href="/">Home</Link></li>
-                <li><Link href="#about-us" onClick={handleMobileMenu}>About</Link></li>
+                <li><Link href="#imagin-ai-rium">ImaginAIrium</Link></li>
+                <li><Link href="#veloci-trade">VelociTrade</Link></li>
                 <li><Link href="#pricing" onClick={handleMobileMenu}>Pricing</Link></li>
                 <li><Link href="/contact" onClick={handleMobileMenu}>Contact</Link></li>
               </ul>

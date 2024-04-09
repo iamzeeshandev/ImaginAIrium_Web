@@ -3,7 +3,7 @@
 import React from 'react';
 export default function Glance() {
   return (
-    <section className="glance-section centred">
+    <section id="imagin-ai-rium" className="glance-section centred">
       <div className="auto-container">
         <div className="inner-container">
           <div className="pattern-layer">
