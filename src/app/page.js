@@ -19,13 +19,13 @@ export default function Home() {
         <HeroSection />
         {/* <Banner /> */}
         <AboutUs />
-        <Glance />
         <ImaginAIrium />
+        <Glance />
         <VelociTrade />
         {/* <ImageSection /> */}
         {/* <VideoSection /> */}
         {/* <CodeSection /> */}
-        <Gallery />
+        {/* <Gallery /> */}
         <Pricing />
         <ContactForm />
       </Layout>

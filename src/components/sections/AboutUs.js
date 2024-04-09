@@ -5,7 +5,7 @@ import React from 'react';
 
 export default function AboutUs() {
     return (
-        <section id="about-us" className="about-section pb_120 pt_80">
+        <section id="about-us" className="about-section pt_80">
             <div className="auto-container">
                 <div className="row align-items-center">
                     <div className="col-lg-6 col-md-12 col-sm-12 image-column">

@@ -2,8 +2,15 @@ export default function HeroSection() {
 
     return (
         <section class="hero-section">
+            <video
+                className="hero-video"
+                src="assets/images/resource/hero-video-1.mp4"
+                autoPlay
+                loop
+                muted
+            />
             <div class="container">
-                <div class="row justify-content-end">
+                <div class="row justify-content-start">
                     <div class="col-md-6">
                         <div class="hero-content">
                             <h1><strong>Revolutionize Your Business with AI</strong></h1>
@@ -16,3 +23,4 @@ export default function HeroSection() {
         </section>
     )
 }
+
